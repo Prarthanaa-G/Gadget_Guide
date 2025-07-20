@@ -3,6 +3,20 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Secrets & Credentials
+.streamlit/
+*.json
+
+# Generated Data - Ignore the index but NOT the manuals inside vectorstore
+vectorstore/faiss_index/
 # C extensions
 *.so
 
