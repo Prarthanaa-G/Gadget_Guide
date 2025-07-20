@@ -23,9 +23,11 @@ license: mit
 
 An intelligent RAG-based chatbot for troubleshooting e-commerce products.
 
+
 **[>> View the Live Demo Here <<](https://1prarthana14-e-commerce-chatbot.hf.space/)**
 
-![App Screenshot](
+
+App Screenshot
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/687bcbbe904a3aafd0f04c29/wJ33AvVQXZgUWGlCLDKOR.png)
 
